@@ -1,1 +1,3 @@
 What happens when you initialize a repository? Why do you need to do it?
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+ANS: you can add two different logic files to the stagging area and commit both the files together to the repository. 
